@@ -14,7 +14,7 @@ app.use(express.json());
 
 //======================= Connect to MongoDB =======================
 try {
-    mongoose.connect('mongodb+srv://mohammedsalah235:jwtAuth@jwtauth.wvhp0.mongodb.net/?retryWrites=true&w=majority&appName=jwtAuth', {
+    mongoose.connect('mongodb+srv://????????????', {
         useNewUrlParser: true,
         useUnifiedTopology: true,
     });
